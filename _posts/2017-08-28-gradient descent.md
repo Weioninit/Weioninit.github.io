@@ -1,7 +1,7 @@
 ---
 categories:
- - tutorial
-title:  "梯度下降各种类型介绍————BGD、SGD、MBGD"
+ - [tutorial, deep learning]
+title:  "常见梯度下降法（BGD、SGD、MBGD）"
 ---
 
 
