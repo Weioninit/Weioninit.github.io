@@ -1,6 +1,6 @@
 ---
 categories:
- - tensorflow
+ - [tensorflow, tutorial]
 title:  "Win10 tensorflow 安装一步到位"
 ---
 
