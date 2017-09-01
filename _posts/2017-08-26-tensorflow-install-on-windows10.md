@@ -1,10 +1,10 @@
 ---
-layout: post
-category: "read"
+categories:
+ - tensorflow
 title:  "Win10 tensorflow 安装一步到位"
 ---
 
-# 版本一定要匹配
+# 版本匹配
 ## 详细版本:
 
 >[Anaconda3 4.2.0](https://repo.continuum.io/archive/)
