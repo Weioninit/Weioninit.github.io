@@ -1,5 +1,5 @@
 ---
-title: Sublime text 3 注册码
+title: "Sublime text 3 注册码"
 categories:
  - tutorial
 ---
