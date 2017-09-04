@@ -1,6 +1,7 @@
 ---
 categories:
- - [tutorial, deep learning]
+ - tutorial
+ - deep learning
 title:  "常见梯度下降法（BGD、SGD、MBGD）"
 ---
 
