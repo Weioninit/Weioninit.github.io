@@ -1,7 +1,10 @@
 ---
 categories:
  - tensorflow
+<<<<<<< HEAD
  - tutorial
+=======
+>>>>>>> f05cc016a91758ebff2735d4e0273abb8e52c09a
 title:  "Win10 tensorflow 安装一步到位"
 ---
 
